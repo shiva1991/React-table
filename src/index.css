@@ -1,0 +1,8 @@
+table, tr, td {
+    border: 1px solid;
+    padding: 5px 20px 5px;
+}
+
+th {
+    padding-right: 10px;
+}
